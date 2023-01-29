@@ -49,7 +49,4 @@ After all mutations have been simulated, pIRS (Hu et al. 2012) is used to genera
 
 ## Citation
 If you used simMutAccumTE in you work, please cite:
-```
-```
-
-
+Ho EKH, Bellis ES, Calkins J, Adrion JR, Latta IV LC, Schaack S (2021) Engines of change: Transposable element mutation rates are high and variable within *Daphnia magna*. PLoS Genet 17(11): e1009827. [Link](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009827)
